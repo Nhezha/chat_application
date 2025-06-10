@@ -1,0 +1,1 @@
+A chat application built in Flask and used AES encryption for all the datas stored in the Database
